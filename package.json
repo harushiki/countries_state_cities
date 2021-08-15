@@ -1,0 +1,23 @@
+{
+  "name": "countries_state_cities",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harushiki/countries_state_cities.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harushiki/countries_state_cities/issues"
+  },
+  "homepage": "https://github.com/harushiki/countries_state_cities#readme",
+  "dependencies": {
+    "fastify": "^3.20.2"
+  }
+}
