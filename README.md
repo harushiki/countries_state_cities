@@ -11,3 +11,6 @@ https://countries_state_cities.deta.dev/states?country=id to get states
 https://countries_state_cities.deta.dev/cities?country=id&state=id to get cities
 
 no name support cuz i dont need it
+
+
+Might add name support and country, state and city details by their id... soon(?)
